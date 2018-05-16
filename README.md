@@ -17,3 +17,5 @@ docker run -it freedomben/pacvim 5 n
 # Start on level 5 mode == hard
 docker run -it freedomben/pacvim 3 h
 ```
+
+Forked initially from: https://gist.github.com/tlrobinson/f64d80b872338a878d14601eda764bdb
